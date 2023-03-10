@@ -5,6 +5,7 @@ import { BlinkPage } from 'pages/BlinkPage';
 const App = ()  => {
   return (
     <div className="App">
+      test
       <BlinkPage />
     </div>
   );
